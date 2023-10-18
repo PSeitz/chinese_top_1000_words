@@ -1,4 +1,4 @@
-Top 1000 Traditional Chinese Words that are used in Taiwan.
+Top 1000 Chinese Words in Traditional Chinese that are used in Taiwan.
 
 Thanks to K. J. Chen and the CKIP Group of the Academia Sinica for the list.
 
